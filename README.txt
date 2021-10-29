@@ -7,7 +7,7 @@ magicien ou guerrier, qui possèdent des caractéristiques ( PV, force, attaques
 
 -CONTEXTE: 
 TP dans le cadre de la 2ème année de formation 
-en bachelor développeur web à l'école Hetic. 
+en Bachelor Développeur web à l'école Hetic. 
 
 -STRUCTURE DU CODE:
 PHP orienté objet
