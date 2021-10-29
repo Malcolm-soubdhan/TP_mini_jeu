@@ -1,0 +1,78 @@
+body{
+background-color: rgb(46, 46, 46);
+color: rgb(239, 239, 241); 
+font-size: 1.2em; 
+font-family: sans-serif;
+margin: 0;
+}
+
+h1 {
+    color: red; 
+}
+
+a{
+    text-decoration: none;
+    color: rgb(49, 153, 250);
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 4px; 
+    padding: 8px; 
+    margin-top:2%; 
+}
+
+button a {
+    color: white;
+    font-size: 1.2em;
+}
+
+.content{
+margin:2%;
+
+}
+
+.bandeau{
+   background: black;
+   margin: 0; 
+   display: flex;
+}
+
+.bandeau h1{
+    margin: 2%;
+    align-items: center;
+}
+
+th{
+    text-align: center;
+    text-align: -moz-center;
+    background-color: black;
+}
+
+td, th{
+    padding: 10px;
+}
+
+#icone_pers{
+  background-color: white;
+  border-radius: 8px; 
+  margin: 2%; 
+  width: 50px;
+}
+
+#sword_color{
+width: 60px; 
+height: 60px; 
+margin: 2%;
+align-items: center;
+}
+.fight_title{
+text-align: center;
+
+}
+
+.highlight{
+color: red; 
+
+}
